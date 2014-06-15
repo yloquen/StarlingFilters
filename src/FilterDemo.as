@@ -14,8 +14,8 @@ package
 
 	public class FilterDemo extends Sprite
 	{
-		[Embed(source = "../img/img.jpg")]
-		private var WaveImage:Class;
+/*		[Embed(source = "../img/img.jpg")]
+		private var WaveImage:Class;*/
 
 		[Embed(source = "../img/logo.png")]
 		private var LogoImage:Class;
